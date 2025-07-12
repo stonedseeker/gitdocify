@@ -395,9 +395,8 @@ Here are the default values for the environment variables:
 
 ### 5. Configuration Examples
 
-This is an example configuration in the `.env` file:
-
 ```
+
 
 
 
